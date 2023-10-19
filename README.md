@@ -1,5 +1,6 @@
 # Clean ChatGPT History in one click.
-Certainly! Here's a more detailed explanation of how to run JavaScript code in a browser console:
+
+
 
 1. **Open Your Browser:** Start by launching your preferred web browser.
 
